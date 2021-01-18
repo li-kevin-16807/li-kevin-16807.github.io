@@ -16,7 +16,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Kanit', sans-serif;
-  background-color: #e7eefc;
+  background-color: #f6f9ff;
   color: #4d4d4d;
   scroll-behavior: smooth;
 }
@@ -58,7 +58,7 @@ li {
 
 .navbar {
   padding: 24px;
-  background-color: #e7eefc;
+  background-color:#f6f9ff;
   box-shadow: 0 2px 2px 0px rgba(0,0,0,.2);
 }
 
@@ -139,7 +139,7 @@ li {
 .home .resume-link .btn-outline-dark {
   background-color: #d14486;
   border-color:transparent;
-  color: #e7eefc;
+  color: #f6f9ff;
   height: 48px;
   font-size: 14px;
   animation: background-color-change 30s infinite;
